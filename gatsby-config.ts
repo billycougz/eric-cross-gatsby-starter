@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteHeadline: `Eric Cross - Journeyman @ Woodcock Refrigeration`,
     siteUrl: `https://eric-cross.com`,
     siteDescription: `Eric Cross - Journeyman @ Woodcock Refrigeration`,
-    siteImage: `src/assets/banner.jpg`,
+    siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@will_cougar`,
   },
@@ -36,7 +36,7 @@ const config: GatsbyConfig = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#f6ad55`,
         display: `standalone`,
-        icon: '/banner.jpg',
+        icon: 'src/assets/banner.png',
       },
     },
     // You can remove this plugin if you don't need it
