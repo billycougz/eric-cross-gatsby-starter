@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteHeadline: `Eric Cross - Journeyman @ Woodcock Refrigeration`,
     siteUrl: `https://eric-cross.com`,
     siteDescription: `Eric Cross - Journeyman @ Woodcock Refrigeration`,
-    siteImage: `/banner.jpg`,
+    siteImage: `src/assets/banner.jpg`,
     siteLanguage: `en`,
     author: `@will_cougar`,
   },
