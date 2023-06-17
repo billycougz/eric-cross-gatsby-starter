@@ -1,5 +1,5 @@
 ---
-path: '/shoprite'
+path: '/shoprite-manager'
 date: 2012-01-01
 title: 'Seafood Manager @ ShopRite'
 subtitle: 'Manchester, CT'
