@@ -47,6 +47,7 @@ export default function Template({ data }) {
 					</Divider>
 					<Content speed={0.4} offset={0} factor={1}>
 						<Inner className='blog-post-inner'>
+							<Themed.a href='/'>Home</Themed.a>
 							<Themed.h1>Eric Cross</Themed.h1>
 							<Themed.h1>{post.frontmatter.title}</Themed.h1>
 							<Themed.h1>{post.frontmatter.subtitle}</Themed.h1>
